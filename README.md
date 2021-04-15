@@ -1,11 +1,21 @@
 **Citi Bike Sharing**
+
+
 **Overview:**
+
+
 In this project, I created a bike trip analysis to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To achieve it, firstly, I used Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, I created a set of visualizations to:
+
+
 •	Show the length of time that bikes are checked out for all riders and genders
 •	Show the number of bike trips for all riders and genders for each hour of each day of the week
 •	Show the number of bike trips for each type of user and gender for each day of the week.
 The analysis for this project has been published to Tableau Public (https://public.tableau.com/views/NYCCitiBikeAnalysis_16184009000370/CheckoutTimesforUsers?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
-Results:
+
+
+**Results:**
+
+
 •	Customer Types: from the pie chart, we can see that most of the users, 81% (1,900,359 users) of them, are the app's subscribers.  
 •	Checkout Times for Users: most of the trip lasts around 15 minutes, and then the trip duration steadily declines after that time  mark. 
 •	Checkout Times by Gender: following the analysis of the trip duration, we can see Male uses the bike the most in terms of Gender Type.  
