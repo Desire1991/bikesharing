@@ -1,4 +1,4 @@
-<<<<<<< Citi Bike Sharing
+ Citi Bike Sharing
 =======
 **Citi Bike Sharing**
 
@@ -65,5 +65,4 @@ Also, I will say, most of our users (~65%) happen to be male subscribers to Citi
 
 After reviewing our findings from the CitiBike data, I realized two additional visualizations would be helpful for future analysis. First, I noticed that the highest volume of rides was occurring on Thursdays by male subscribers. It would be interesting to see if a specific area within the city was seeing higher volume of rides on Thursdays and if it was related to an event. Perhaps a sporting or musical event was occurring every Thursday night in August that was driving up the volumes for that day. 
 
->>>>>>> 981c76751ac8ea0e6c44bda81232eec389581933
 
