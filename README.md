@@ -12,7 +12,9 @@ In this project, I created a bike trip analysis to convince investors that a bik
 •	Show the length of time that bikes are checked out for all riders and genders
 •	Show the number of bike trips for all riders and genders for each hour of each day of the week
 •	Show the number of bike trips for each type of user and gender for each day of the week.
-The analysis for this project has been published to Tableau Public (https://public.tableau.com/views/NYCCitiBikeAnalysis_16184009000370/CheckoutTimesforUsers?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+The analysis for this project has been published to Tableau Public (https://public.tableau.com/views/NYCCitiBikeAnalysis_16184009000370/CheckoutTimesforUsers?:language=en&:display_count=y&publish=yes&:origin=viz_share_link   
+
+You can also check this Tableau public for the module  https://public.tableau.com/views/NYCCitiBikeRideshare_Book1/GenderBreakdown?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 
 **Results:**
