@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< Citi Bike Sharing
 =======
 **Citi Bike Sharing**
 
