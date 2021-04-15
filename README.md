@@ -51,8 +51,11 @@ In conclusion, I think the program can be successful when deploys in Des Moines.
 I would recommend for future analysis, to make two visualizations that focus on the user's demographic information:
 
 •	The Average Age of the customer base.
+
 •	The population density of the Des Moines area to understand where we should install the bike station.
-•	My other recommendation is to investigate winter months further to see if we still see to same hourly trends and volumes. August is probably a very popular time to be outside in New York City but how would those numbers compare to December when commuting to and from work would be more challenging by bike.
+
+•	My other recommendation is to investigate winter months further to see if we still see to same hourly trends and volumes.
+August is probably a very popular time to be outside in New York City but how would those numbers compare to December when commuting to and from work would be more challenging by bike.
 
 
 Also, I will say, most of our users (~65%) happen to be male subscribers to CitiBike. The average duration of rides are about 5 minutes with females having a slightly longer trip duration per ride then males. Both males and females follow the same trend of most rides occurring at 8AM in the morning and 5PM to 6PM in the afternoon on weekdays. This appears to be related to morning and afternoon work commutes. During weekends, we see a different story with most rides occurring between 10AM to 6PM. Thursdays between 5PM to 6PM seem to be our most popular day for both males and females which is worth further investigation. Bike repair will be a necessity for the company, and I would recommend bike repairs to occur at 2AM to 4AM because we see our lowest volume of riders during that time window.
