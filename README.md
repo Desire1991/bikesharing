@@ -16,7 +16,10 @@ The analysis for this project has been published to Tableau Public (https://publ
 **Results:**
 
 
-•	Customer Types: from the pie chart, we can see that most of the users, 81% (1,900,359 users) of them, are the app's subscribers.  
+•	Customer Types: from the pie chart, we can see that most of the users, 81% (1,900,359 users) of them, are the app's subscribers. 
+
+![Gender_Breakdown](https://user-images.githubusercontent.com/74233163/114800541-87290b00-9d5f-11eb-82d5-28e5fd9cb6f3.png)
+
 •	Checkout Times for Users: most of the trip lasts around 15 minutes, and then the trip duration steadily declines after that time  mark. 
 •	Checkout Times by Gender: following the analysis of the trip duration, we can see Male uses the bike the most in terms of Gender Type.  
 •	Trips by Weekday for Each Hour: we see a trend that during Weekdays, except Wednesday, most users use the bike from 5 pm to 6 pm. The second most usage hours during Weekdays are at 8am.  
