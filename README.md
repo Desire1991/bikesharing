@@ -1,5 +1,5 @@
-Citi Bike Sharing
-Overview:
+**Citi Bike Sharing**
+**Overview:**
 In this project, I created a bike trip analysis to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To achieve it, firstly, I used Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, I created a set of visualizations to:
 •	Show the length of time that bikes are checked out for all riders and genders
 •	Show the number of bike trips for all riders and genders for each hour of each day of the week
